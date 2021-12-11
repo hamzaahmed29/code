@@ -1,0 +1,61 @@
+
+  
+  .PForm {
+  
+    background-color: #f3f3f3;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 500px;
+    padding: 20px;
+    width: 320px;
+    margin-top: 12%;
+    box-shadow: 5px;
+  }
+
+
+  
+  .PInput {
+    background-color: #fcfcfc;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color:black;
+    font-size: 18px;
+    height: 100%;
+    outline: 0;
+    padding: 4px 20px 0;
+    width: 100%;
+  }
+  
+  
+
+  
+
+  
+  .PSubmit {
+    background-color: #08d;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    margin-top: 38px;
+     outline: 0;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .PSubmit:active {
+    background-color: #06b;
+  }
+  .PSubmit:hover {
+      background-color:white;
+      color:#06b;
+      font-weight: bold;
+  }
+  .Plabel {
+      color:rgb(0, 0, 0);
+
+  }
