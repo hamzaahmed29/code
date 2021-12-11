@@ -1,0 +1,61 @@
+
+.Container{
+  text-align: center;
+}
+
+
+.Inp{
+    background-color: white;
+    border-radius: 12px;
+    border: 0;
+    color: black;
+    font-size: 18px;
+    outline: 0;
+    padding: 4px 20px 0;
+    width: 100%;
+}
+.form {
+    
+    background-color:#1b2155;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 300px;
+    padding: 20px;
+    width: 320px;
+    box-shadow: 5cm;
+    margin:auto;
+    margin-top:12%;
+ 
+    
+  }
+  .Sub{
+    background-color: #1502be98;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    margin-top: 38px;
+     outline: 0;
+    text-align: center;
+    width: 100%;
+  }
+  .sub:active {
+    background-color:#73cf8f;
+  }
+  .Sub:hover {
+      background-color:white;
+      color:#73cf8f;
+      font-weight: bold;
+      border: double;
+      border-color: #73cf8f;
+  }
+  .Label {
+    color:rgb(252, 252, 252);
+    font-size:large;
+    text-align: center;
+}
+
+
